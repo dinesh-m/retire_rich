@@ -1,8 +1,8 @@
-# RetireRich - a one-stop online investment solution for your retirement portfolios
+# RetireRich - a one-stop online investment solution for your retirement
 
 RetireRich is a python based application to calculate and analyze the risk-return of funds as compared to the S&P 500 Index. The sample data used in this program has Net Asset Value (NAV) of four popular-and-big funds (SOROS FUND MANAGEMENT LLC, PAULSON & CO.INC., TIGER GLOBAL MANAGEMENT LLC, BERKSHIRE HATHAWAY INC) along with the S&P 500. The NAV acts as the daily closing price for the fund. The overall goal is to determine the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, betas and rolling-window betas.
 
-The program shows a step-by-step approach of evaluating the four new investment options (funds) for inclusion in the client portfolios. The progarm does a quantitative analysis using the several components: performance, volatility, risk, risk-return profile, and portfolio diversification.
+The program shows a step-by-step approach of evaluating the four new investment options (funds) for inclusion in the client portfolios. The program does a quantitative analysis using the several components: performance, volatility, risk, risk-return profile, and portfolio diversification.
 
 ---
 
@@ -31,7 +31,7 @@ From the Git Bash terminal, make sure to 'activate conda' and appropriate virtua
   > jupyter lab
 ```
 
-Then, browse to risk_return_analysis.ipynb starter code file to run the program. See the image below for a quick hint.
+Then, browse to **risk_return_analysis.ipynb** starter code file to run the program. See the image below for a quick hint.
 
 ![Jupyter Notebook](images/app_usage.png)
 
