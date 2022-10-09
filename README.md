@@ -9,7 +9,7 @@ The program shows a step-by-step approach of evaluating the four new investment 
 ## Technologies
 
 This project leverages python 3.7.* with the following additional packages:
-* [Jupyter Notebook](https://jupyter.org/) - The main module of the Crypto Arbitrage Calculator is written in Jupyter Notebook.
+* [Jupyter Notebook](https://jupyter.org/) - The main module of the RetireRich is written in Jupyter Notebook.
 * [Conda](https://docs.conda.io/projects/conda/en/latest/) - Conda environment is recommended to have Pandas library and other dependencies pre-installed.
 
 **Required Libraries:**
